@@ -1,5 +1,5 @@
-Hi, im Andrew, a current junior studying CS at Cornell University
-Connect with me: `https://www.linkedin.com/in/andrew-j-hu`
+#### Hi, im Andrew, a current junior studying CS at Cornell University
+#### you can connect with me here: `https://www.linkedin.com/in/andrew-j-hu`
 <p align="left">
 </p>
 
