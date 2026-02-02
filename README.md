@@ -1,4 +1,4 @@
-#### Hi, im Andrew, a current junior studying CS at Cornell University
+#### Hi, im Andrew, a current junior studying CS at Cornell University!
 #### you can connect with me here: `https://www.linkedin.com/in/andrew-j-hu`
 <p align="left">
 </p>
