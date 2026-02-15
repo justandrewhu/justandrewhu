@@ -1,8 +1,6 @@
 #### About Me
 
-I am an undergraduate student in computer science at Cornell University. I am a software sub-team lead for Cornell Nexus, a student-led project team developing an autonomous beach cleaning robot. I was also a lead TA for CS 3410, an course that is an introduction to computer organization and systems, and am currently TAing CS 4740, introduction to Natural Language Processing. I am mainly interested in robotics and robot learning, graphics, gpu programming, and using machine learning and computer systems to solve real-world problems concerning sustainability and optimization.
-
-I also enjoy game development, and am part of the Development of Games Association at Cornell, and also the president of the E-Sports club.
+I am an undergraduate student in computer science at Cornell University. I am a software sub-team lead for Cornell Nexus, a student-led project team developing an autonomous beach cleaning robot. I was also a lead TA for CS 3410, an course that is an introduction to computer organization and systems, and am currently TAing CS 4740, introduction to Natural Language Processing. I am mainly interested in robotics and robot learning, graphics and vision, gpu programming, and using machine learning and computer systems to solve real-world problems concerning sustainability and optimization.
 
 you can connect with me here: `https://www.linkedin.com/in/andrew-j-hu`
 <p align="left">
