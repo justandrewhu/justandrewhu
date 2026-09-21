@@ -1,6 +1,6 @@
 #### About Me
 
-current undergraduate studying cs @ cornell
+current undergraduate studying cs @ cornell | 
 sde intern @ aws
 
 you can connect with me here: `https://www.linkedin.com/in/andrew-j-hu`
